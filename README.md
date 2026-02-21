@@ -53,6 +53,5 @@ A solution that automates and personalizes the creation of travel itineraries st
    ```bash
    streamlit run "Project Files/travel.py"
    ```
-
 5. **Start Exploring!**
    Open your browser at the provided localhost URL (usually `http://localhost:8501`), enter your desired destination and duration, and instantly generate your travel itinerary!
